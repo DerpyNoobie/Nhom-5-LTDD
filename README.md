@@ -1,5 +1,5 @@
 # Nhom-5-LTDD
-TÊN ĐỀ TÀI: 
+TÊN ĐỀ TÀI: Chatbot hỗ trợ viết tiểu thuyết
 TÊN THÀNH VIÊN NHÓM:
   1. Nguyễn Đức Thành
   2. Lê Thục Anh
